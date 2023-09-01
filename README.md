@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jose Hernandez</h1>
 <h3 align="center">Ingeniero de Informática y Desarrollador Full Stack con pasión por el aprendizaje en tecnología.</h3>
 
-- Actualmente estoy trabajando en **proyecto personal de tienda en linea**
+- 🔭 Actualmente estoy trabajando en **proyecto personal de tienda en linea**
 
 - 🌱 Estoy aprendiendo sobre **Flask, SQL, JavaScript y Python**
 
